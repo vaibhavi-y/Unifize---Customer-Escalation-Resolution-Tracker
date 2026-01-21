@@ -8,6 +8,20 @@ This project focuses on improving visibility, ownership, and resolution quality 
 
 ---
 
+## 🛠️ About Unifize
+**Unifize** is a low-code workflow and process management platform that enables organizations to design, automate, and scale business processes with ease. It provides flexible process modeling, role-based ownership, status tracking, and relationship mapping between records.
+
+In this project, Unifize is utilized to:
+- Design structured **parent–child workflows**
+- Enforce **status-driven process control**
+- Maintain **data integrity and accountability**
+- Enable **scalable escalation management**
+- Improve **cross-team collaboration and visibility**
+
+The platform’s low-code capabilities make it easy to configure fields, relationships, and workflows without heavy development effort.
+
+---
+
 ## 🛠️ Solution Architecture
 
 ### 🔹 Parent Process: Customer Escalation
