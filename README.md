@@ -108,20 +108,5 @@ By enforcing structured workflows and mandatory task completion, it improves res
 ---
 
 
-## 🔄 Process Flow Diagram
-
-```mermaid
-flowchart TD
-    A[Start] --> B[Create Customer Escalation]
-    B -->|Status: Raised| C[Assign Primary Owner]
-    C --> D[Add Action Items]
-    D --> E[Execute Action Items]
-    E --> F{All Action Items Completed?}
-    F -->|Yes| G[Update Escalation Status to Closed]
-    F -->|No| E
-    G --> H[Escalation Closed]
-    H --> I[End]
-
-
 ## 👩‍💻 Author
 **Vaibhavi Yadav**
